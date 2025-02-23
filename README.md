@@ -33,9 +33,6 @@ The project will now be accessible at [http://localhost:3000](http://localhost:3
 - The system will process the file and **detect deepfake elements**.  
 - A **confidence score** will be displayed, indicating the likelihood of manipulation.  
 
-## API Integration  
-This prototype provides an API that can be integrated into third-party applications for deepfake detection. Detailed API documentation will be available soon.  
-
 ## Note  
 🚀 This is a **prototype** and is still under development. Accuracy, speed, and real-world applicability will improve with further optimizations.  
 
